@@ -1,0 +1,15 @@
+.imagenav{
+    background:url("One.png") no-repeat center center/cover;
+    border:0px solid rgb(0, 0, 0);
+    width:480px;
+    height:650px;
+    border-radius: 100px;
+    
+  
+}
+.profile{
+    background: linear-gradient( rgba(0,0,0,0.5), rgba(0, 0, 0, 0.5)) ,url("b1.jpg") no-repeat center center/cover;
+    width:100vw;
+    height:100vh;
+    
+}
